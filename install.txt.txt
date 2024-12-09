@@ -1,0 +1,6 @@
+npm i node-redis redis-io socket.io passport-local passport-local-mongoose  http-errors @hapi/joi
+
+npm i -D concurrently
+
+npm i -g sequelize nodemon typescript json-server
+npm i -g redis-commander

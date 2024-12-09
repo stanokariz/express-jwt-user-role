@@ -1,0 +1,40 @@
+{
+    "_": {
+        "postman_id": "b990c1cb-9f39-4dfb-8614-dffcaeb8e539"
+    },
+    "item": [
+        {
+            "id": "6ac1d6a3-df62-450d-bc79-8e5b38fe7fda",
+            "name": "register",
+            "request": {
+                "url": {
+                    "query": [],
+                    "variable": []
+                },
+                "method": "GET"
+            },
+            "response": [],
+            "event": []
+        },
+        {
+            "id": "26742900-65d3-403f-8039-96e37b336808",
+            "name": "login",
+            "request": {
+                "url": {
+                    "query": [],
+                    "variable": []
+                },
+                "method": "GET"
+            },
+            "response": [],
+            "event": []
+        }
+    ],
+    "event": [],
+    "variable": [],
+    "info": {
+        "_postman_id": "b990c1cb-9f39-4dfb-8614-dffcaeb8e539",
+        "name": "employee-davegray",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+}
